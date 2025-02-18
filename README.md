@@ -25,7 +25,7 @@ You can install the required dependencies using `pip`:
 
 ```bash
 pip install tensorflow pyqt5 nltk scikit-learn
-
+```
 
 
 ### Key Sections in the README:
